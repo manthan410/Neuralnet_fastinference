@@ -1,1 +1,3 @@
-/usr/bin/c++  -Wall -Wno-long-long -pedantic -Wno-unused-variable -Ofast -march=native -mtune=native -rdynamic CMakeFiles/testCode.dir/main.cpp.o CMakeFiles/testCode.dir/model.cpp.o -o testCode 
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ff247a8e5149292f444c80d26feeb7023725520bb70c0584d343cd16ec687bc
+size 195
