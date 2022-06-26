@@ -1,0 +1,12 @@
+.vscode
+docs/_api
+docs/api
+docs/_build
+docs/latex
+docs/templates
+docs/xml
+docs/make.bat
+#docs/html
+/*.egg-info
+*.json
+__pycache__
