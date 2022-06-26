@@ -1,0 +1,48 @@
+
+*** These modified files were found in JOE when it aborted on Tue Apr  5 16:56:06 2022
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/shenoymn/fastinference/vggf/model_4184246439608248040_12646147787583209699_12646147787583209699/model.cpp
+
+*** File '* Startup Log *'
+Processing '/etc/joe/jpicorc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/jpicorc
+
+*** These modified files were found in JOE when it aborted on Wed Apr  6 11:11:49 2022
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/shenoymn/fastinference/vggf/model-binary-cpp/model.cpp
+/home/shenoymn/fastinference/vggf/model-binary-cpp/model.cpp
+/home/shenoymn/fastinference/vggf/model-binary-cpp/model.cpp
+/home/shenoymn/pytorch-onnx-CIFAR10/train.sh
+/home/shenoymn/fastinference/alexnet-12/model.h
+/home/shenoymn/fastinference/alexnet-12/model.h
+/home/shenoymn/fastinference/vggf/model-float-binarycpp/model.h
+
+*** File '* Startup Log *'
+Processing '/etc/joe/jmacsrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/jmacsrc
+
+*** These modified files were found in JOE when it aborted on Wed Apr  6 11:13:15 2022
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/shenoymn/fastinference/vggf/model-binary-cpp/model.cpp
+/home/shenoymn/fastinference/vggf/model-binary-cpp/model.cpp
+/home/shenoymn/fastinference/vggf/model-binary-cpp/model.cpp
+/home/shenoymn/pytorch-onnx-CIFAR10/train.sh
+/home/shenoymn/fastinference/alexnet-12/model.h
+/home/shenoymn/fastinference/alexnet-12/model.h
+/home/shenoymn/fastinference/vggf/model-float-binarycpp/model.h
+
+*** File '* Startup Log *'
+Processing '/etc/joe/jmacsrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/jmacsrc
