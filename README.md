@@ -36,7 +36,7 @@ Similar results can be observed for the models trained on Fashion MNIST with the
 
 Thus, further better BNNs can be explored like Binarised VGGs or Resnets trained on different datasets like CIFAR10.
 
-The onnx models of Alexnet, VGG16, Resnet18 were used from ..... and passed to the framework and was checked whether the framework can handle such large and deep networks and the generated C++ code can be succesfully compiled.
+The onnx models of Alexnet, VGG16, Resnet18 were used from https://github.com/manthan410/models and passed to the framework and was checked whether the framework can handle such large and deep networks and the generated C++ code can be succesfully compiled.
 
 
 
