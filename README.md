@@ -37,7 +37,7 @@ Similar results can be observed for the models trained on Fashion MNIST with the
 
 Thus, there is need to explore better BNNs.
 The onnx models of large and deep models like Alexnet, VGG16, Resnet18 were used from https://github.com/manthan410/models and passed to the Fastinference framework and was checked whether the framework can handle such large and deep networks. When passed through the framework the C++ files were generated and compiled successfully.
-Further, VGGs for dataset like CIFAR10 was considered  then compared again with non-binary and Binary models. The results are observed by running different test cases provided in Vggf folder and BinaryNet-pytorch folder.
+Further, VGGs for dataset like MNIST & CIFAR10 were considered  then compared again with non-binary and Binary models. The results are observed by running different test cases provided in Vggf folder and BinaryNet-pytorch folder.
 
 
 
